@@ -1,0 +1,29 @@
+{
+  "name": "todoapp_authentication_and_timer",
+  "version": "1.0.0",
+  "description": "react_jsonserver_auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjalbhaskar-27/todoApp_authentication_and_timer.git"
+  },
+  "keywords": [
+    "todo",
+    "full-stack",
+    "react",
+    "json-server",
+    "authentication"
+  ],
+  "author": "Pranjal Bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjalbhaskar-27/todoApp_authentication_and_timer/issues"
+  },
+  "homepage": "https://github.com/pranjalbhaskar-27/todoApp_authentication_and_timer#readme",
+  "dependencies": {
+    "react-router": "^6.3.0"
+  }
+}
